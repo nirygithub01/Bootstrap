@@ -1,0 +1,52 @@
+.container{
+    float: left;
+    width: 500px;
+    margin: auto;
+}
+
+.container-fluid{
+    width: min-content;
+    margin: auto;
+}
+.row{
+padding: 0%; 
+}
+.col{
+    padding: 0%;
+}
+
+/**
+.btn{
+    width: 45%;
+    border-radius: 1rem;
+}*/
+.rounded{
+    width: 100%;
+    height: 80%;
+}
+.img-thumbnail{
+    width: 60%;
+    height: 80%;
+}
+h1{
+    font-size: small;
+}
+h2{
+    font-size: small;
+}
+h3{
+    font-size: small;
+}
+h4{
+    font-size: small;
+}
+h5{
+    font-size: small;
+}
+h6{
+    font-size: small;
+}
+p{
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+}
